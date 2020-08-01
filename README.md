@@ -1,10 +1,9 @@
 ### Hello, i'm Matheus 👋
 
-## I'm an !
-- 🔭 I’m currently learning CS!
-- 🌱 Also learning everything
-- 👯 I’m looking to learn new areas
-- 🥅 2020 Goals: Explore more about Dev
+## I'm an enthusiastic!
+- 🔭 I’m currently learning CS during covid-quarantine!
+- 🌱 Improving my skills
+- 🥅 2020 Goals: Learn!
 - ⚡ Fun fact: I'm a Civil Engineer.
 
 ### You can find me:
