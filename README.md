@@ -9,7 +9,7 @@ Freelance Software Engineer
 ```javascript
 
 const aboutMe = {
-  code: [JavaScript, TypeScript, HTML, CSS],
+  code: [JavaScript, TypeScript, HTML, CSS, SASS],
   frameworks: [React, Vue, Node],
   communities: {
     bootCamp: '100Devs',
