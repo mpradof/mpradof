@@ -7,12 +7,13 @@ Creative. detail-oriented, and software engineer. 👨‍💻
 
 const aboutMe = {
   stack: ['ReactJS', 'Node.js', 'JavaScript', 'TypeScript'],
-  frontEnd: ['SASS', 'CSS Flexbox', 'CSS Grid'],
+  frontEnd: ['SASS', 'Bootstrap','CSS Flexbox', 'CSS Grid'],
   communities: {
     bootCamp: '100Devs',
     challenges: 'NextLevelWeek - Rocketseat',
     codeRank: 'codewars'
   },
+  languages: ['Português (Nativo)', 'Inglês (Avançado)', 'Francês (Básico)'],
   learning: 'Love language and code learning.'
 }
 
