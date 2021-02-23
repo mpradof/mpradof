@@ -1,7 +1,7 @@
 # Matheus Filgueiras
 
 ## Hello World!🎉
-Criative. detail-oriented, and software engineer. 👨‍💻
+Creative. detail-oriented, and software engineer. 👨‍💻
 
 ```javascript
 
