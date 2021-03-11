@@ -9,7 +9,6 @@ My name is Matheus. A proud child of parents who gave their only son the opportu
 
 I love challenges, and how there are always many ways to solve them. I like how a community and coding can give more humanity to the technology we create.
 
-- 🌱 I’m currently learning **on #100Devs Bootcamp.**
 
 - 👨‍💻 All of my projects are available at [https://mpfdev.netlify.app/](https://mpfdev.netlify.app/)
 
