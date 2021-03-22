@@ -12,7 +12,6 @@ I love challenges, and how there are always many ways to solve them. I like how 
 
 - 👨‍💻 All of my projects are available at [https://mpfdev.netlify.app/](https://mpfdev.netlify.app/)
 
-- 📝 I regulary write articles on [https://dev.to/mpfdev](https://dev.to/mpfdev)
 
 - 📫 How to reach me **mpfdev@protonmail.com*
 
@@ -39,8 +38,7 @@ I love challenges, and how there are always many ways to solve them. I like how 
 
 ### Backend  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />   
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
