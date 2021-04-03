@@ -80,7 +80,7 @@ I love challenges, and how there are always many ways to solve them. I like how 
         <br>
         <a href="https://mpfdev.netlify.app/" rel="nofollow">
             <img src="https://i.imgur.com/jzxNvuF.gif" width="100%" alt="Portfolio" data-canonical-src="https://i.imgur.com/jzxNvuF.gif" style="max-width:100%;">
-        </a><br><br>
+        </a><br><br><br><br><br><br>
         <p><strong>HTML5, CSS3, Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
   </tr>
