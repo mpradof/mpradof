@@ -71,7 +71,7 @@ I love challenges, and how there are always many ways to solve them. I like how 
         <a href="https://simple-todo-fs.herokuapp.com/" rel="nofollow">
             <img src="https://camo.githubusercontent.com/b88932cf24a37a3eb14d02b4f0753f42816bf553fc91e9d38e19ec698ae51d3d/68747470733a2f2f692e696d6775722e636f6d2f46674639785a432e676966" width="100%" alt="Full-Stack Todo" data-canonical-src="https://camo.githubusercontent.com/b88932cf24a37a3eb14d02b4f0753f42816bf553fc91e9d38e19ec698ae51d3d/68747470733a2f2f692e696d6775722e636f6d2f46674639785a432e676966" style="max-width:100%;">
         </a>
-        <p><strong>HTML, CSS, Javascript, Bootstrap, Node.js, Express.js  &amp; MongoDB.</strong> - Todo App - Platform to help you with your todo list, you can add new tasks, delete them if completed, and edit if you want to.</p>
+        <p><strong>HTML, CSS, Javascript, Bootstrap, Node.js, Express.js, MongoDB, &amp; EJS.</strong> - Todo App - Platform to help you with your todo list, you can add new tasks, delete them if completed, and edit if you want to.</p>
     </td>
     <td width="33%" valign="top">
       <h3><a id="user-content-portfolio" class="anchor" aria-hidden="true" href="#portfolio"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Portfolio</h3>
