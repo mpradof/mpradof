@@ -12,7 +12,6 @@ I love challenges, and how there are always many ways to solve them. I like how 
 
 - 👨‍💻 All of my projects are available at [https://mpfdev.netlify.app/](https://mpfdev.netlify.app/)
 
-
 - 📫 How to reach me **mpfdev@protonmail.com*
 
 - 💐 You're wonderful!
