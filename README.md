@@ -108,7 +108,7 @@ I love challenges, and how there are always many ways to solve them. I like how 
 
 ## Github Stats  
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mpfdev" align="center" width="80%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mpfdev" align="center" width="60%"/>
 </div>  
 
 <br/>  
