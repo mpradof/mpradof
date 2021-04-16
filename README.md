@@ -107,8 +107,8 @@ I love challenges, and how there are always many ways to solve them. I like how 
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mpfdev&show_icons=true&count_private=true&hide_border=true" align="center" width="40%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mpfdev" align="center" width="40%"/>
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mpfdev" align="center" width="80%"/>
 </div>  
 
 <br/>  
