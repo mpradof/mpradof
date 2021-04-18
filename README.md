@@ -2,8 +2,8 @@
   <img src="https://i.imgur.com/Z7p1HN1.png" width="100%">
 </a>
 
-<h1 align="center">Hi 👋, I'm Matheus Filgueiras</h1>
-<h3 align="center">Software Engineer at 100Devs</h3>
+## Hey there! How are you?
+### Software Engineer at 100 Devs
 
 My name is Matheus. A proud child of parents who gave their only son the opportunity to do a Civil Engineering degree at a University. And a proud Software Engineer who will do everything I can to look for your solutions.
 
