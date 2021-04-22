@@ -11,7 +11,7 @@
  <a href="#roadmap">Skill Set</a> • 
  <a href="#portfolio">Latest Works</a> • 
  <a href="#connect">Connect with me</a> • 
- <a href="#status">Github Status</a> • 
+ <a href="#status">Github Status</a>
 </p>
 
 <h4 align="center">🚀 console.log() enthusiast 🚀</h4>
