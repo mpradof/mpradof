@@ -21,7 +21,7 @@
 <p align="justify">
 My name is Matheus. A proud child of parents who gave their only son the opportunity to do a Civil Engineering degree at a University. And a proud Software Engineer who will do everything I can to look for your solutions.
 
-I am proficient in both **Frontend Development** and **Backend Development** . I have extensive knowledge in **HTML5**, **JavaScript**, **CSS3**, **Node.JS**,** MongoDB**, and **React**.
+I am proficient in both **Frontend Development** and **Backend Development** . I have extensive knowledge in **HTML5**, **JavaScript**, **CSS3**, **Node.JS**,**MongoDB**, and **React**.
 
 I love challenges, and how there are always many ways to solve them. I like how a community and coding can give more humanity to the technology we create
 </p>
