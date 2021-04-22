@@ -58,10 +58,9 @@ I love challenges, and how there are always many ways to solve them. I like how 
 <h4>🚧 Under Construction 🚧</h4>
 
 <h3 id="connect">Connect with me</h3>
-
-Built with ❤️ by Matheus Filgueiras 👋🏽 Get in touch!
-
 <div align="center">
+ Built with ❤️ by Matheus Filgueiras 👋🏽 Get in touch!  <br />
+  
 <a href="https://github.com/mpfdev" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a><a href="https://twitter.com/mpfdev" target="_blank">
