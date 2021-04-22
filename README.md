@@ -27,11 +27,12 @@ I love challenges, and how there are always many ways to solve them. I like how 
 </p>
 
 <p align="left">
-- 👨‍💻 All of my projects are available at [https://mpfdev.netlify.app/](https://mpfdev.netlify.app/)
+  
+x 👨‍💻 All of my projects are available at [https://mpfdev.netlify.app/](https://mpfdev.netlify.app/)
 
-- 📫 How to reach me **mpfdev@protonmail.com*
+x 📫 How to reach me **mpfdev@protonmail.com*
 
-- 💐 You are wonderful!
+x 💐 You are wonderful!
 </p>
 
 <h3 id="roadmap">Skill Set 🚀</h3>
@@ -59,7 +60,7 @@ I love challenges, and how there are always many ways to solve them. I like how 
 
 <h3 id="connect">Connect with me</h3>
 <div align="center">
- Built with ❤️ by Matheus Filgueiras 👋🏽 Get in touch!  <br />
+ Built with ❤️ by Matheus Filgueiras 👋🏽 Get in touch!  <br/><br/>
   
 <a href="https://github.com/mpfdev" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
