@@ -87,7 +87,7 @@ x 💐 You are wonderful!
     </td>
   </tr>
     <tr>
-       <td width="100%" valign="top">
+       <td width="100%">
       <h3>Template Website</h3>
         <br>
         <p><a href="https://laughing-kilby-4ed51e.netlify.app/" rel="nofollow">Visit Site</a></p>
