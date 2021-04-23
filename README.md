@@ -86,6 +86,18 @@ x 💐 You are wonderful!
         <p>🚧 Under Construction 🚧</p>
     </td>
   </tr>
+    <tr>
+       <td width="100%" valign="top">
+      <h3>Template Website</h3>
+        <br>
+        <p><a href="https://laughing-kilby-4ed51e.netlify.app/" rel="nofollow">Visit Site</a></p>
+        <br>
+        <a href="https://laughing-kilby-4ed51e.netlify.app/" rel="nofollow">
+            <img src="https://mpfdev.netlify.app/images/thumbs/website.png" style="max-width:100%; height:200px;">
+        </a>
+        <p><strong>HTML5 and CSS3</strong> - Template Landing Page - Built with Flexbox.</p>
+    </td>
+    </tr>
 </tbody>
     </table>
           </div>
