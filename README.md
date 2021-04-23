@@ -37,22 +37,24 @@ x 💐 You are wonderful!
 
 <h3 id="roadmap">Skill Set 🚀</h3>
 
-<table style="width: 70%;" border="2">
-<tbody>
-<tr>
-<td align="center">Frontend</td>
-<td align="center">Backend</td>
-</tr>
-<tr>
-<td>HTML5, CSS3, JavaScript</td>
-<td>Node.js & Express</td>
-</tr>
-<tr>
-<td>React, Nextjs, EJS</td>
-<td>MongoDB & Mongoose</td>
-</tr>
-</tbody>
-</table>
+<div align="center">
+  <table style="width: 100%;" border="1">
+    <tbody>
+      <tr>
+        <td align="center">Frontend</td>
+        <td align="center">Backend</td>
+      </tr>
+      <tr>
+        <td>HTML5, CSS3, JavaScript</td>
+        <td>Node.js & Express</td>
+      </tr>
+      <tr>
+        <td>React, Nextjs, EJS</td>
+        <td>MongoDB & Mongoose</td>
+      </tr>
+    </tbody>
+  </table>
+  </div>
 
 <h3 id="portfolio">Latest Works</h3>
 
