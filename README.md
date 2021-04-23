@@ -58,7 +58,40 @@ x 💐 You are wonderful!
 
 <h3 id="portfolio">Latest Works</h3>
 
-<h4>🚧 Under Construction 🚧</h4>
+<article>
+      <div>
+  <div>
+<table>
+  <tbody><tr>
+    <td width="50%" valign="top">
+      <h3>Next Vidr</h3>
+        <br>
+        <p><a href="https://github.com/mpfdev/nextvidr" rel="nofollow">Visit Repo</a></p>
+        <br>
+        <a href="https://github.com/mpfdev/nextvidr" rel="nofollow">
+            <img src="https://camo.githubusercontent.com/7ecfe2db8b14f96fe9f739fc94db61815d4095682984ba55ac3e31aed6d2a73c/68747470733a2f2f692e696d6775722e636f6d2f65634733766e332e706e67" style="max-width:100%;">
+        </a>
+        <p><strong>HTML, CSS, TypeScript, React, NextJs & Sass</strong> - Next Vidr - Platform to learn code.</p>
+        <p>🚧 Under Construction 🚧</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Budgr</h3>
+        <br>
+        <p><a href="https://github.com/mpfdev/budgrapp" rel="nofollow">Visit Repo</a></p>
+        <br>
+        <a href="https://github.com/mpfdev/budgrapp" rel="nofollow">
+            <img src="https://camo.githubusercontent.com/e8c2504db073d5939c1b875b9d628346f558d141e1c74c3eb94321c007d28535/68747470733a2f2f692e696d6775722e636f6d2f79656a74424a782e706e67" style="max-width:100%;">
+        </a>
+        <p><strong>NodeJs, Express, MongoDB, Mongoose, EJS & Passport</strong> - Budgr App - Personal Budget.</p>
+        <p>🚧 Under Construction 🚧</p>
+    </td>
+  </tr>
+</tbody>
+    </table>
+          </div>
+  </div>
+</article>
+
 
 <h3 id="connect">Connect with me</h3>
 <div align="center">
