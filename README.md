@@ -92,8 +92,6 @@ x 💐 You are wonderful!
   </div>
 </article>
     
-    <article>
-      <div>
   <div>
 <table>
     <table>
