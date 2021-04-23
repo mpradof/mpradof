@@ -86,7 +86,18 @@ x 💐 You are wonderful!
         <p>🚧 Under Construction 🚧</p>
     </td>
   </tr>
-    <tr>
+</tbody>
+    </table>
+              </div>
+  </div>
+</article>
+    
+    <article>
+      <div>
+  <div>
+<table>
+    <table>
+  <tbody><tr>
        <td width="100%">
       <h3>Template Website</h3>
         <br>
@@ -100,10 +111,9 @@ x 💐 You are wonderful!
     </tr>
 </tbody>
     </table>
-          </div>
+  </div>
   </div>
 </article>
-
 
 <h3 id="connect">Connect with me</h3>
 <div align="center">
