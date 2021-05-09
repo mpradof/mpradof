@@ -65,14 +65,14 @@ x 💐 You are wonderful!
 <table>
   <tbody><tr>
     <td width="50%" valign="top">
-      <h3>userSearch</h3>
+      <h3>100Devs Social Network</h3>
         <br>
-        <p><a href="https://github.com/mpfdev/userSearch" rel="nofollow">Visit Repo</a></p>
+        <p><a href="https://github.com/mpfdev/100DevsTwitterNetwork" rel="nofollow">Visit Repo</a></p>
         <br>
-        <a href="https://github.com/mpfdev/userSearch" rel="nofollow">
-            <img src="https://camo.githubusercontent.com/df24716d5d9750a75a58e8bcfecff40fc7f2b3220423a98b466e9f540530e169/68747470733a2f2f692e696d6775722e636f6d2f636a63634e74722e676966" style="max-width:100%;">
+        <a href="https://github.com/mpfdev/100DevsTwitterNetwork" rel="nofollow">
+            <img src="https://i.imgur.com/nMWVuZ3.gif">
         </a>
-        <p><strong>HTML, CSS, JavaScript, and Node.js</strong> - userSearch - JSON DB</p>
+        <p><strong>Node & Express, MongoDB & Mongoose, EJS & Passport</strong> - 100Devs Social Network - Another Twitter</p>
     </td>
     <td width="50%" valign="top">
       <h3>Budgr</h3>
@@ -83,7 +83,6 @@ x 💐 You are wonderful!
             <img src="https://camo.githubusercontent.com/e8c2504db073d5939c1b875b9d628346f558d141e1c74c3eb94321c007d28535/68747470733a2f2f692e696d6775722e636f6d2f79656a74424a782e706e67" style="max-width:100%;">
         </a>
         <p><strong>NodeJs, Express, MongoDB, Mongoose, EJS & Passport</strong> - Budgr App - Personal Budget.</p>
-        <p>🚧 Under Construction 🚧</p>
     </td>
   </tr>
 </tbody>
