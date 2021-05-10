@@ -1,7 +1,3 @@
-<a target="_blank" href="https://mpfdev.netlify.app">
-  <img src="https://i.imgur.com/7qNl1V0.png" width="100%">
-</a>
-
 <h1 align="center">MATHEUS FILGUEIRAS</h1>
 <p align="center">Software Engineer at 100Devs</p>
 <p align="center"><img src="https://img.shields.io/static/v1?label=README&message=MPFDEV&color=4287f5&style=for-the-badge&logo=ghost"/></p>
