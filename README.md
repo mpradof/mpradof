@@ -118,9 +118,3 @@ x 💐 You are wonderful!
 </a><a href="https://linkedin.com/in/matheus-filgueiras-dev" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a>
 </div>
-
-<h3 id="status">Github Status</h3>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mpfdev" align="center" width="60%"/>
-</div>
